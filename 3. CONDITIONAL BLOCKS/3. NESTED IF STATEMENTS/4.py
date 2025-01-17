@@ -9,7 +9,7 @@ if num1>num2:
     if num1>num3:
         print("Number1 is greater")
 if num2>num1:
-    if num1>num2:
+    if num2>num3:
         print("Number2 is greater")
 if num3>num1:
     if num3>num2:
