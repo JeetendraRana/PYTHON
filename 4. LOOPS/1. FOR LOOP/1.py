@@ -51,3 +51,8 @@
 #     print(f"{num} is prime")
 # else:
 #     print(f"{num} is not prime")
+
+# 9 PRINT A PATTERN USING FOR LOOP
+row = 5
+for i in range (1, row+1):
+    print(" * " * i)
